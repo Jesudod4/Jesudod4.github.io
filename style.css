@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background-color: papayawhip;
+  padding: 6rem;
+}
+
+.container {
+  max-width: 144rem;
+  margin: 0 auto;
+}
+
+.logo {
+  display: block;
+  margin: 0 auto;
+  width: 10rem;
+}
+
+.menu-box .menu {
+  margin: 2rem auto;
+  text-align: center;
+  max-width: 40%;
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+  font-size: 3.2rem;
+}
+
+.menu-box .menu .menu-item {
+  color: #000;
+}
+
+.menu-box .menu a {
+  text-decoration: none;
+}
+
+.header {
+  padding-top: 6rem;
+  text-align: center;
+  font-size: 6.4rem;
+}
+
+.header-text {
+  font-size: 3.2rem;
+}
+
+.second-header {
+  font-size: 6.4rem;
+  text-align: center;
+  padding-top: 6rem;
+}
